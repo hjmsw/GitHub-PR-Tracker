@@ -1,0 +1,2 @@
+module prtracker
+singleton PrFetcher 1.0 PrFetcher.qml
